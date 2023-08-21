@@ -1,0 +1,69 @@
+{
+  "projects": [
+    {
+      "name": "Projeto Teste",
+      "budget": "10000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 1000,
+      "services": [
+        {
+          "name": "Contratar um Dev",
+          "cost": "1000",
+          "description": "Back-end",
+          "id": "b7023483-092b-49d8-b7cc-8903fb9b3589"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "Novo Projeto",
+      "budget": "5000",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": null,
+      "services": [
+        {
+          "name": "Contratar UX",
+          "cost": "600",
+          "description": "UX",
+          "id": "604c55bc-1b07-458a-a44a-eea2665330be"
+        }
+      ],
+      "id": 2
+    },
+    {
+      "name": "Infra",
+      "budget": "1000",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 3
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infra"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Planejamento"
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+.contact {
+    padding: 1em 1em;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
